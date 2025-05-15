@@ -25,7 +25,7 @@ const Hero = () => {
   return (
     <section className='relative w-full h-[110vh] mx-auto'>
 
-      {/* ✅ Fullscreen & interactive canvas */}
+      {/* Fullscreen & interactive canvas */}
       <div className='absolute inset-0 z-0'>
         <div className='w-[100%] h-[600px] sm:h-[600px] md:h-[800px] lg:h-[650px]'>
         <ComputersCanvas />

@@ -122,7 +122,7 @@ const Contact = () => {
         </form>
       </motion.div>
 
-      {/* Earth Model */}
+      {/* Earth-Model */}
       <motion.div
         variants={slideIn("right", "tween", 0.2, 1)}
         className="w-full lg:flex-[0.5] h-[350px] md:h-[500px] lg:h-auto"

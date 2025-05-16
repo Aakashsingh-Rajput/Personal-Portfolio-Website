@@ -29,7 +29,6 @@ Welcome to the official repository of my **Personal Portfolio Website** — a mo
 | Deployment      | Vercel                                       |
 
 ---
-
 ## 🧩 Project Structure
 
 ```bash
@@ -44,3 +43,27 @@ Welcome to the official repository of my **Personal Portfolio Website** — a mo
 │   └── main.jsx         # Entry point
 ├── vite.config.js       # Vite configuration
 └── README.md
+````
+
+---
+
+## 📦 Deployment
+
+This project is deployed using **Vercel**. It supports continuous deployment directly from the main branch.
+
+To deploy your own version:
+
+1. Push your project to GitHub.
+2. Go to [vercel.com](https://vercel.com) and import your repository.
+3. Follow the setup flow (Vite will be auto-detected).
+4. Done! Your site is live.
+
+---
+
+## 📬 Connect With Me
+
+* 🔗 **LinkedIn** — [@aakashsingh-rajput](https://www.linkedin.com/in/aakashsingh-rajput)
+* 💻 **GitHub** — [@Aakashsingh-Rajput](https://github.com/Aakashsingh-Rajput)
+* 🐦 **Twitter / X** — [@Aakash27Rajput](https://twitter.com/Aakash27Rajput)
+* 📧 **Email** — [aakashrajput.amcec@gmail.com](mailto:aakashrajput.amcec@gmail.com)
+

@@ -23,7 +23,7 @@ const skillsTools = [
   "Canva",
 ];
 
-// Updated SkillBadge with a simple and professional style
+// Updated SkillBadge with a simple and professional styles
 const SkillBadge = ({ skill }) => (
   <span
     className="inline-block bg-gray-800 text-white text-base font-medium px-4 py-1 rounded-md mr-3 mb-3

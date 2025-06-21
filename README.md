@@ -6,7 +6,7 @@ Welcome to the official repository of my **Personal Portfolio Website** — a mo
 
 ---
 
-## 🚀 Features
+##  Features
 
 - **Built with React + Vite** for blazing-fast performance
 - **3D Interactive Background** using Three.js (via `@react-three/fiber`)
@@ -17,7 +17,7 @@ Welcome to the official repository of my **Personal Portfolio Website** — a mo
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Category        | Technologies Used                          |
 |-----------------|---------------------------------------------|
@@ -29,7 +29,7 @@ Welcome to the official repository of my **Personal Portfolio Website** — a mo
 | Deployment      | Vercel                                       |
 
 ---
-## 🧩 Project Structure
+##  Project Structure
 
 ```bash
 ├── public/              # Static assets
@@ -47,7 +47,7 @@ Welcome to the official repository of my **Personal Portfolio Website** — a mo
 
 ---
 
-## 📦 Deployment
+##  Deployment
 
 This project is deployed using **Vercel**. It supports continuous deployment directly from the main branch.
 
@@ -60,10 +60,10 @@ To deploy your own version:
 
 ---
 
-## 📬 Connect With Me
+##  Connect With Me
 
-* 🔗 **LinkedIn** — [@aakashsingh-rajput](https://www.linkedin.com/in/aakashsingh-rajput)
-* 💻 **GitHub** — [@Aakashsingh-Rajput](https://github.com/Aakashsingh-Rajput)
-* 🐦 **Twitter / X** — [@Aakash27Rajput](https://twitter.com/Aakash27Rajput)
-* 📧 **Email** — [aakashrajput.amcec@gmail.com](mailto:aakashrajput.amcec@gmail.com)
+*  **LinkedIn** — [@aakashsingh-rajput](https://www.linkedin.com/in/aakashsingh-rajput)
+*  **GitHub** — [@Aakashsingh-Rajput](https://github.com/Aakashsingh-Rajput)
+*  **Twitter / X** — [@Aakash27Rajput](https://twitter.com/Aakash27Rajput)
+*  **Email** — [aakashrajput.amcec@gmail.com](mailto:aakashrajput.amcec@gmail.com)
 
